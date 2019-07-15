@@ -1,0 +1,4 @@
+Social
+Multiplex
+Undirected
+Unweighted
